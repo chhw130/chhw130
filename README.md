@@ -1,19 +1,17 @@
 <div align="center">
-	<img src="https://capsule-render.vercel.app/api?type=cylinder&color=auto&text=FE%20Developer&fontAlignY=45&fontSize=40&height=150&animation=blinking&desc=chhw130&descAlignY=70">
-</div>
-
-
-
-<h1>Welcome My Page!!!😃</h1>
-I want to become a front-end developer who continues to develop.🇰🇷
-
 <br>
+	
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Oleo+Script&weight=700&size=50&duration=4000&pause=5000&color=10c1ca&center=true&vCenter=true&width=1000&lines=Hi,+I'm+FrontEnd+Developer)](https://git.io/typing-svg)
+	
+
+	
 <br>
 <br>
 
 
 
-<h2>Tech stack</h2>
+
+<h2>📖 Tech stack</h2>
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
@@ -39,3 +37,6 @@ I want to become a front-end developer who continues to develop.🇰🇷
 
 ![chhw130](https://github-readme-stats.vercel.app/api?username=chhw130&show_icons=true)
 [![chhw130](https://github-readme-stats.vercel.app/api/top-langs/?username=chhw130&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/chhw130)
+	
+	
+</div>

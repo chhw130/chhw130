@@ -1,6 +1,6 @@
 ## 🙌 Introduce
 
-`함께` 성장하는 분위기를 즐기며, 동료들에게 `문제 해결사`로 성장하는 <br/>
+`함께` 고민하며 성장하는 분위기를 즐기며, 팀의 `문제 해결사`로 성장하는 <br/>
 프론트엔드 개발자 `최현우`입니다.
 
 ## 📖 Tech stack
@@ -19,5 +19,7 @@
 - [당신은 프론트엔드 개발자가 맞나요?](https://velog.io/@chhw130/%EB%8B%B9%EC%8B%A0%EC%9D%80-%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C-%EA%B0%9C%EB%B0%9C%EC%9E%90%EA%B0%80-%EB%A7%9E%EB%82%98%EC%9A%94)
 - [무한 스크롤 성능 개선의 여정(Intersection Observer API)](https://velog.io/@chhw130/%EB%AC%B4%ED%95%9C-%EC%8A%A4%ED%81%AC%EB%A1%A4-%EC%84%B1%EB%8A%A5-%EA%B0%9C%EC%84%A0%EC%9D%98-%EC%97%AC%EC%A0%95Intersection-Observer-API)
 
-
-</div>
+## 📝 Open Source Contribution
+### [es-toolkit](https://github.com/toss/es-toolkit)
+State-of-the-art, high-performance JavaScript utility library with a small bundle size and strong type annotations.<br/>
+- contribution : [toss es-toolkit](https://github.com/toss/es-toolkit/pulls?q=is%3Apr+chhw130+is%3Aclosed)

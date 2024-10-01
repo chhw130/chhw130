@@ -21,5 +21,4 @@
 
 ## 📝 Open Source Contribution
 ### [es-toolkit](https://github.com/toss/es-toolkit)
-State-of-the-art, high-performance JavaScript utility library with a small bundle size and strong type annotations.<br/>
-- contribution : [toss es-toolkit](https://github.com/toss/es-toolkit/pulls?q=is%3Apr+chhw130+is%3Aclosed)
+State-of-the-art, high-performance JavaScript utility library with a small bundle size and strong type annotations.([pr list](https://github.com/toss/es-toolkit/pulls?q=is%3Apr+chhw130+is%3Aclosed))

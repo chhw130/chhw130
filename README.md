@@ -3,6 +3,8 @@
 `함께` 고민하며 성장하는 분위기를 즐기며, 팀의 `문제 해결사`로 성장하는 <br/>
 프론트엔드 개발자 `최현우`입니다.
 
+- [resume](https://www.rallit.com/resumes/118235@jaesooc048/%EC%B5%9C%ED%98%84%EC%9A%B0)
+
 ## 📖 Tech stack
 
 

@@ -1,3 +1,12 @@
+<a href="https://github.com/devxb/gitanimals">
+<img
+  src="https://render.gitanimals.org/farms/chhw130"
+  width="600"
+  height="300"
+/>
+</a>
+
+
 ## 🙌 Introduce
 
 `함께` 고민하며 성장하는 분위기를 즐기며, 팀의 `문제 해결사`로 성장하는 <br/>

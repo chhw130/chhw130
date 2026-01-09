@@ -24,11 +24,11 @@
 ![VueJs](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
 
 ## 📚 Recent Post
-- [V8엔진에서 JavaScript는 어떻게 최적화 될까??](https://www.mincho130.xyz/posts/javascript/how-to-run-JavaScript)
-- [2024년의 기록](https://www.mincho130.xyz/posts/review/2024-Adieu)
-- [상태관리와 렌더링 메커니즘 다 똑같을까??(React와 Vue비교)](https://velog.io/@chhw130/React%EC%99%80-%EB%B9%84%EA%B5%90%ED%95%9C-Vue%EC%9D%98-%EC%83%81%ED%83%9C%EA%B4%80%EB%A6%AC)
-- [당신은 프론트엔드 개발자가 맞나요?](https://velog.io/@chhw130/%EB%8B%B9%EC%8B%A0%EC%9D%80-%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C-%EA%B0%9C%EB%B0%9C%EC%9E%90%EA%B0%80-%EB%A7%9E%EB%82%98%EC%9A%94)
+- [2025년의 기록](https://www.mincho130.xyz/posts/review/2025-Adieu)
+- [tanstack-query 도입 이후 쌓인 기술부채 갚기](https://www.mincho130.xyz/posts/development/after-adopting-tanstack-query-paying-down-technical-debt)
+- [Vite에서 preload plugin함수 만들기](https://www.mincho130.xyz/posts/web/preload-setting-on-vite)
+- [자동완성 input 컴포넌트 개발기](https://www.mincho130.xyz/posts/development/auto-complete-input-development)
 
 ## 📝 Open Source Contribution
-### [es-toolkit](https://github.com/toss/es-toolkit)
-State-of-the-art, high-performance JavaScript utility library with a small bundle size and strong type annotations.([pr list](https://github.com/toss/es-toolkit/pulls?q=is%3Apr+chhw130+is%3Aclosed))
+- [es-toolkit](https://github.com/toss/es-toolkit/issues?q=state%3Aclosed%20is%3Apr%20author%3A%40me)
+- [frontend-fundamentals](https://github.com/toss/frontend-fundamentals/issues?q=state%3Aclosed%20is%3Apr%20author%3A%40me)
